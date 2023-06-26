@@ -16,7 +16,7 @@ using AutoMapper;
 using System;
 namespace AuthDynamic
 {
-   
+
     public class Startup
     {
         public Startup(IConfiguration configuration)

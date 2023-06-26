@@ -12,5 +12,9 @@
         //public List<User> GetUsers();
         public Task<string> RegisterUser(User user);
         public IQueryable<User> GetUsers();
+        public string prime(int num);
+        public User GetUserById(int ID);
+
+
     }
 }

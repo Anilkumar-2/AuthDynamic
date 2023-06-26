@@ -18,5 +18,6 @@ namespace DataAccessLayer.Model
         public int? UpdatedById { get; set; }
 
         public virtual UserRoles Role { get; set; }
+
     }
 }
